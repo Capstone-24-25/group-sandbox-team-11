@@ -1,0 +1,12 @@
+---
+title: "Sophia-About"
+author: "Sophia Mirrashidi"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+Hello my name is Sophia. I am a 4th year stats student. 
