@@ -1,0 +1,12 @@
+---
+title: "Rebecca RMD"
+author: "Rebecca Chang"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is Rebecca's RMD file
