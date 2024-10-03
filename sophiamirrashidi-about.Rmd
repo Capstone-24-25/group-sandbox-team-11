@@ -9,4 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
  
-Hello my name is Sophia. I am a 4th year stats student. 
+Hello my name is Sophia. I am a 4th year stats student. Yay!
