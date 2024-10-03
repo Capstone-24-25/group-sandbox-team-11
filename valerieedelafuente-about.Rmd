@@ -1,0 +1,7 @@
+---
+title: "valerieedelafuente-about.md"
+output: html_document
+date: "2024-10-03"
+---
+
+Hi my name is Valerie! I used to play water polo!
